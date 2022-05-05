@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.af4e0f29.css",
+    "main.js": "/static/js/main.1979d631.js",
+    "static/js/787.27850d1a.chunk.js": "/static/js/787.27850d1a.chunk.js",
+    "static/media/azapp.png": "/static/media/azapp.5597cb608974c06d612c.png",
+    "index.html": "/index.html",
+    "main.af4e0f29.css.map": "/static/css/main.af4e0f29.css.map",
+    "main.1979d631.js.map": "/static/js/main.1979d631.js.map",
+    "787.27850d1a.chunk.js.map": "/static/js/787.27850d1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af4e0f29.css",
+    "static/js/main.1979d631.js"
+  ]
+}
